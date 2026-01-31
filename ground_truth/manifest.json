@@ -1,0 +1,162 @@
+{
+  "figma_file_key": "XKju9KAy07CsOjPBLGHlTU",
+  "total_frames": 26,
+  "frames": [
+    {
+      "name": "Landing Page - 1",
+      "node_id": "20:7570",
+      "gt_image": "20-7570.png",
+      "target_route": "/frames/landing-page-1-desktop"
+    },
+    {
+      "name": "Landing Page - 2",
+      "node_id": "20:7077",
+      "gt_image": "20-7077.png",
+      "target_route": "/frames/landing-page-2-desktop"
+    },
+    {
+      "name": "Landing Page - 3",
+      "node_id": "92:56757",
+      "gt_image": "92-56757.png",
+      "target_route": "/frames/landing-page-3-desktop"
+    },
+    {
+      "name": "Landing Page - 4",
+      "node_id": "64:9228",
+      "gt_image": "64-9228.png",
+      "target_route": "/frames/landing-page-4-desktop"
+    },
+    {
+      "name": "Landing Page - 5",
+      "node_id": "20:6344",
+      "gt_image": "20-6344.png",
+      "target_route": "/frames/landing-page-5-desktop"
+    },
+    {
+      "name": "Landing Page - 6",
+      "node_id": "30:7001",
+      "gt_image": "30-7001.png",
+      "target_route": "/frames/landing-page-6-desktop"
+    },
+    {
+      "name": "Landing Page - 7",
+      "node_id": "32:11104",
+      "gt_image": "32-11104.png",
+      "target_route": "/frames/landing-page-7-desktop"
+    },
+    {
+      "name": "Landing Page - 8",
+      "node_id": "53:163789",
+      "gt_image": "53-163789.png",
+      "target_route": "/frames/landing-page-8-desktop"
+    },
+    {
+      "name": "Landing Page - 9",
+      "node_id": "79:7918",
+      "gt_image": "79-7918.png",
+      "target_route": "/frames/landing-page-9-desktop"
+    },
+    {
+      "name": "Landing Page - 10",
+      "node_id": "86:230659",
+      "gt_image": "86-230659.png",
+      "target_route": "/frames/landing-page-10-desktop"
+    },
+    {
+      "name": "Landing Page - 11",
+      "node_id": "102:91016",
+      "gt_image": "102-91016.png",
+      "target_route": "/frames/landing-page-11-desktop"
+    },
+    {
+      "name": "Landing Page - 12",
+      "node_id": "149:12675",
+      "gt_image": "149-12675.png",
+      "target_route": "/frames/landing-page-12-desktop"
+    },
+    {
+      "name": "Landing Page - 13",
+      "node_id": "143:12378",
+      "gt_image": "143-12378.png",
+      "target_route": "/frames/landing-page-13-desktop"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 1",
+      "node_id": "352:35520",
+      "gt_image": "352-35520.png",
+      "target_route": "/frames/landing-page-1-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 2",
+      "node_id": "356:20339",
+      "gt_image": "356-20339.png",
+      "target_route": "/frames/landing-page-2-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 3",
+      "node_id": "356:23114",
+      "gt_image": "356-23114.png",
+      "target_route": "/frames/landing-page-3-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 4",
+      "node_id": "356:27131",
+      "gt_image": "356-27131.png",
+      "target_route": "/frames/landing-page-4-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 5",
+      "node_id": "356:29507",
+      "gt_image": "356-29507.png",
+      "target_route": "/frames/landing-page-5-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 6",
+      "node_id": "356:31758",
+      "gt_image": "356-31758.png",
+      "target_route": "/frames/landing-page-6-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 7",
+      "node_id": "361:33792",
+      "gt_image": "361-33792.png",
+      "target_route": "/frames/landing-page-7-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 8",
+      "node_id": "366:36177",
+      "gt_image": "366-36177.png",
+      "target_route": "/frames/landing-page-8-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 9",
+      "node_id": "366:38640",
+      "gt_image": "366-38640.png",
+      "target_route": "/frames/landing-page-9-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 10",
+      "node_id": "366:40633",
+      "gt_image": "366-40633.png",
+      "target_route": "/frames/landing-page-10-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 11",
+      "node_id": "369:43194",
+      "gt_image": "369-43194.png",
+      "target_route": "/frames/landing-page-11-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 12",
+      "node_id": "373:27248",
+      "gt_image": "373-27248.png",
+      "target_route": "/frames/landing-page-12-mobile"
+    },
+    {
+      "name": "Landing Page - iPhone 14 - 13",
+      "node_id": "373:28858",
+      "gt_image": "373-28858.png",
+      "target_route": "/frames/landing-page-13-mobile"
+    }
+  ]
+}
